@@ -1,0 +1,483 @@
+[
+    {
+        "domains": [
+            "mbzuai.ac.ae"
+        ],
+        "state-province": "Abu Dhabi",
+        "name": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)",
+        "web_pages": [
+            "https://mbzuai.ac.ae/"
+        ],
+        "country": "United Arab Emirates",
+        "alpha_two_code": "AE",
+        "id": 1
+    },
+    {
+        "name": "American College Of Dubai",
+        "state-province": null,
+        "domains": [
+            "acd.ac.ae"
+        ],
+        "web_pages": [
+            "http://www.acd.ac.ae/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 2
+    },
+    {
+        "name": "Abu Dhabi University",
+        "state-province": null,
+        "domains": [
+            "adu.ac.ae"
+        ],
+        "web_pages": [
+            "http://www.adu.ac.ae/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 3
+    },
+    {
+        "name": "Al Ghurair University",
+        "state-province": null,
+        "domains": [
+            "agu.ae"
+        ],
+        "web_pages": [
+            "http://www.agu.ae/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 4
+    },
+    {
+        "name": "Ajman University of Science & Technology",
+        "state-province": null,
+        "domains": [
+            "ajman.ac.ae"
+        ],
+        "web_pages": [
+            "http://www.ajman.ac.ae/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 5
+    },
+    {
+        "name": "Alain University of Science and Technology",
+        "state-province": null,
+        "domains": [
+            "alainuniversity.ac.ae"
+        ],
+        "web_pages": [
+            "http://www.alainuniversity.ac.ae/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 6
+    },
+    {
+        "name": "Alhosn University",
+        "state-province": null,
+        "domains": [
+            "alhosnu.ae"
+        ],
+        "web_pages": [
+            "http://www.alhosnu.ae/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 7
+    },
+    {
+        "name": "American University in Dubai",
+        "state-province": null,
+        "domains": [
+            "aud.edu"
+        ],
+        "web_pages": [
+            "http://www.aud.edu/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 8
+    },
+    {
+        "name": "American University in the Emirates",
+        "state-province": null,
+        "domains": [
+            "aue.ae"
+        ],
+        "web_pages": [
+            "http://www.aue.ae/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 9
+    },
+    {
+        "name": "American University of Sharjah",
+        "state-province": null,
+        "domains": [
+            "aus.edu"
+        ],
+        "web_pages": [
+            "http://www.aus.edu/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 10
+    },
+    {
+        "name": "British University in Dubai",
+        "state-province": null,
+        "domains": [
+            "buid.ac.ae"
+        ],
+        "web_pages": [
+            "http://www.buid.ac.ae/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 11
+    },
+    {
+        "name": "Dubai Medical College for Girls",
+        "state-province": null,
+        "domains": [
+            "dmcg.edu"
+        ],
+        "web_pages": [
+            "http://www.dmcg.edu/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 12
+    },
+    {
+        "name": "Dubai Pharmacy College",
+        "state-province": null,
+        "domains": [
+            "dpc.edu"
+        ],
+        "web_pages": [
+            "http://www.dpc.edu/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 13
+    },
+    {
+        "name": "Rochester Institute of Technology, Dubai",
+        "state-province": null,
+        "domains": [
+            "dubai.rit.edu"
+        ],
+        "web_pages": [
+            "http://dubai.rit.edu/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 14
+    },
+    {
+        "name": "Etisalat University College",
+        "state-province": null,
+        "domains": [
+            "ece.ac.ae"
+        ],
+        "web_pages": [
+            "http://www.ece.ac.ae/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 15
+    },
+    {
+        "name": "The Emirates Academy of Hotel Managment",
+        "state-province": null,
+        "domains": [
+            "emiratesacademy.edu"
+        ],
+        "web_pages": [
+            "http://www.emiratesacademy.edu/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 16
+    },
+    {
+        "name": "Gulf Medical University",
+        "state-province": null,
+        "domains": [
+            "gmu.ac.ae"
+        ],
+        "web_pages": [
+            "http://www.gmu.ac.ae/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 17
+    },
+    {
+        "name": "Hamdan Bin Mohammed e-University",
+        "state-province": null,
+        "domains": [
+            "hbmeu.ac.ae"
+        ],
+        "web_pages": [
+            "http://www.hbmeu.ac.ae/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 18
+    },
+    {
+        "name": "Higher Colleges of Technology",
+        "state-province": null,
+        "domains": [
+            "hct.ac.ae"
+        ],
+        "web_pages": [
+            "http://www.hct.ac.ae/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 19
+    },
+    {
+        "name": "Ittihad University",
+        "state-province": null,
+        "domains": [
+            "ittihad.ac.ae"
+        ],
+        "web_pages": [
+            "http://www.ittihad.ac.ae/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 20
+    },
+    {
+        "name": "Jumeira University",
+        "state-province": null,
+        "domains": [
+            "ju.ac.ae"
+        ],
+        "web_pages": [
+            "http://www.ju.ac.ae/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 21
+    },
+    {
+        "name": "Al Khawarizmi International College",
+        "state-province": null,
+        "domains": [
+            "khawarizmi.com"
+        ],
+        "web_pages": [
+            "http://www.khawarizmi.com/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 22
+    },
+    {
+        "name": "Khalifa University of Science, Technology and Research",
+        "state-province": null,
+        "domains": [
+            "ku.ac.ae"
+        ],
+        "web_pages": [
+            "http://www.ku.ac.ae/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 23
+    },
+    {
+        "name": "Khalifa University",
+        "state-province": null,
+        "domains": [
+            "kustar.ac.ae"
+        ],
+        "web_pages": [
+            "http://www.kustar.ac.ae/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 24
+    },
+    {
+        "name": "Masdar University Of Science And Technology",
+        "state-province": null,
+        "domains": [
+            "masdar.ac.ae"
+        ],
+        "web_pages": [
+            "http://www.masdar.ac.ae/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 25
+    },
+    {
+        "name": "New York University, Abu Dhabi",
+        "state-province": null,
+        "domains": [
+            "nyuad.nyu.edu"
+        ],
+        "web_pages": [
+            "http://nyuad.nyu.edu/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 26
+    },
+    {
+        "name": "The Petroleum Institute",
+        "state-province": null,
+        "domains": [
+            "pi.ac.ae"
+        ],
+        "web_pages": [
+            "http://www.pi.ac.ae/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 27
+    },
+    {
+        "name": "Rak Medical & Health Sciences University",
+        "state-province": null,
+        "domains": [
+            "rakmhsu.com"
+        ],
+        "web_pages": [
+            "http://www.rakmhsu.com/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 28
+    },
+    {
+        "name": "University of Sharjah",
+        "state-province": null,
+        "domains": [
+            "sharjah.ac.ae"
+        ],
+        "web_pages": [
+            "http://www.sharjah.ac.ae/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 29
+    },
+    {
+        "name": "Skyline University College, Sharjah",
+        "state-province": null,
+        "domains": [
+            "skylineuniversity.com"
+        ],
+        "web_pages": [
+            "http://www.skylineuniversity.com/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 30
+    },
+    {
+        "name": "Paris-Sorbonne University Abu Dhabi",
+        "state-province": null,
+        "domains": [
+            "sorbonne.ae"
+        ],
+        "web_pages": [
+            "http://www.sorbonne.ae/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 31
+    },
+    {
+        "name": "United Arab Emirates University",
+        "state-province": null,
+        "domains": [
+            "uaeu.ac.ae"
+        ],
+        "web_pages": [
+            "http://www.uaeu.ac.ae/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 32
+    },
+    {
+        "name": "University Of Dubai",
+        "state-province": null,
+        "domains": [
+            "ud.ac.ae"
+        ],
+        "web_pages": [
+            "http://www.ud.ac.ae/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 33
+    },
+    {
+        "name": "University of Jazeera",
+        "state-province": null,
+        "domains": [
+            "uojazeera.com"
+        ],
+        "web_pages": [
+            "http://www.uojazeera.com/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 34
+    },
+    {
+        "name": "University of Wollongong - Dubai Campus",
+        "state-province": null,
+        "domains": [
+            "uowdubai.ac.ae"
+        ],
+        "web_pages": [
+            "http://www.uowdubai.ac.ae/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 35
+    },
+    {
+        "name": "Zayed University",
+        "state-province": null,
+        "domains": [
+            "zu.ac.ae"
+        ],
+        "web_pages": [
+            "http://www.zu.ac.ae/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 36
+    },
+    {
+        "name": "Scholars International Academy",
+        "state-province": null,
+        "domains": [
+            "sia.ae"
+        ],
+        "web_pages": [
+            "https://www.sia.ae/"
+        ],
+        "alpha_two_code": "AE",
+        "country": "United Arab Emirates",
+        "id": 37
+    }
+]

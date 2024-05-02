@@ -1,0 +1,94 @@
+/* components/Listing.css */
+
+.container {
+    width: 80%;
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #333; /* Darker color for the title */
+  }
+  
+  .search-container {
+    margin: 0 auto 20px auto;
+    width: 80%;
+  }
+  
+  .search-container input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .table-container {
+    overflow-y: auto;
+  }
+  
+  #myTable {
+    width: 100%;
+    border-collapse: collapse;
+    cursor: pointer;
+  }
+  
+  #myTable th {
+    cursor: pointer;
+    text-align: left; /* Left align the column headers */
+    color: #555; /* Darker color for the table headers */
+    background-color: #ddd; /* Darker background color for the heading row */
+    padding: 12px; /* Add padding to the table headers */
+    font-size: 18px; /* Adjust the font size of the table headers */
+    border-bottom: 2px solid #ccc; /* Add a subtle border-bottom to the table headers */
+  }
+  
+  #myTable th:last-child,
+  #myTable td:last-child {
+    text-align: right;
+  }
+  
+  .scrollable-table {
+    max-height: 400px;
+  }
+  
+  .sort-icon {
+    vertical-align: middle;
+    margin-left: 5px;
+  }
+  
+  .asc::before {
+    content: "↑";
+  }
+  
+  .desc::before {
+    content: "↓";
+  }
+  
+  .delete-icon {
+    cursor: pointer;
+    width: 20px;
+    height: auto;
+  }
+
+  .delete-icon:hover {
+    background-color: #ababab;
+  }
+  
+  .align-left {
+    text-align: left; /* Align content of first column to the left */
+  }
+  
+  #myTable tbody tr:hover {
+    background-color: #f0f0f0; /* Darken the row on hover */
+    font-weight: bold; /* changing font weight on hover */
+  }
+  
